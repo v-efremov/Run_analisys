@@ -1,5 +1,5 @@
 # Run_analysis
-Getting and cleaning data corresponds to http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/ located at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Getting and cleaning data corresponds to http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones located at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 To get cleaned result it is necessary to:
 
