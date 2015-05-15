@@ -4,7 +4,7 @@ Getting and cleaning data corresponds to http://archive.ics.uci.edu/ml/datasets/
 To get cleaned result it is necessary to:
 
 1. Unpack data archive into some directory.
-2. Run RStudio
+2. Run R Studio
 3. Set Working Directory to directory where unpacked archive is located (Menu->session or setwd() command).
 4. Open file run_analysis.R
 5. Select the whole script (Ctrl-A).
